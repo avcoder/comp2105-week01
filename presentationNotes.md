@@ -147,3 +147,7 @@
 # Rachel quote
 
 - links to lynda.com
+
+# Todo 2. properties that can be animated
+
+- brief look on which properties can be animated
