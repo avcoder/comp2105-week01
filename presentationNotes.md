@@ -155,3 +155,9 @@
 # Discussion
 
 - Enter in iphone app icons example
+
+# animations aren't for everyone
+
+- article against using animations on web
+- you want to avoid scenarios where user gets seizures if too much is happening on screen
+- so be subtle, have option to turn off, don't get sued because your site is inaccessible
