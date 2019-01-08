@@ -115,11 +115,14 @@
 # Nabors quote:
 
 - Rachel = another guru
-- Stateful transitions - like breadcrumbs
+
+# Stateful transitions - like breadcrumbs
+
 - fluevog.com - notice you don't need to see the rest of the webpage anymore because the focus is on the search results
 - context shift was nice/smooth - your mind is not cognitively putting effort to the background
 
-- Supplmental Animation
+# Supplmental Animation
+
 - good.is/features - notice upon hovering each article title, subtitle appears underneath
 - developer thought: maybe user would like some more info before clicking on it, so I will give that to you
 - isn't that nice? thinking of the user = UX experience
@@ -127,5 +130,20 @@
 - rather than showing sharing links at the bottom of article, web designer thought, well if reader has gone this far, I'll give you a nice-to-have, you may want to share this
 - that is an example of supplmental animation - you didn't have to do that
 
-- 3rd: Causal effects
--
+# 3rd: Causal effects
+
+- codepen: what principle of animation is that? anticipation
+- it goes in the direction of my hover
+- you are the causal effect of this change; it's giving you an indication of what's it's about to do if I click it
+- peacock: imagine how you'd do this before animation existed on the web, using just forms/radio buttons/submit button - how would you do this quiz? UX experience?
+
+# 4th: Decorative animation
+
+- this is where you have to be careful as a web designer, you don't want to do something just because
+- counter example is xbox one - if you can justify it then do it
+- backstory: when the xbox one first arrived, how to compete with other reviews with photos, how to make it viral
+- stumbled upon svg animation - became centerpiece causing it to be viral
+
+# Rachel quote
+
+- links to lynda.com
